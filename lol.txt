@@ -1,0 +1,1 @@
+This is the funny content file. And it'll be committed.
